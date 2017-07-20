@@ -84,6 +84,11 @@ public class TestMoney{
       System.out.println(" fail");
     }
     
+	//money = new Money(5536);
+	//adding = money.addMoney();
+	
+	//money = new Money(5536);
+	//adding = money.removeMoney();
     
     
   }
